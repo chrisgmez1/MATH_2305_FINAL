@@ -1,4 +1,5 @@
-# <centered> Math 2305 Final: The Minimum Spanning Tree</centered>
+# Math 2305 Final: The Minimum Spanning Tree
+#### by Christopher Gamez
 ## Terminology
 
 ### Graph:
